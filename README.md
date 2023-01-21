@@ -1,5 +1,5 @@
 # SafetyFirstTCC
-Repositório para o TCC de Engenharia de Software
+Repositório destinado ao TCC de Engenharia de Software, onde o projeto obteve nota máxima.
 
 <h3>Resumo</h3>
 <p>Originado no cenário preventivo da saúde e segurança do trabalho, o SafetyFirstTCC,
@@ -21,7 +21,7 @@ Código QR.
 Os profissionais vão estar em posse do histórico de suas atividades, poderão editálas, analisá-las, e dar adeus aos métodos manuais e primitivos no qual utilizam hoje.</p>
 <h4>Palavras-chave: Software, App, Web, Mobile, Saúde, JavaScript, AdobeXD.</h4>
 
-<h3.INTRODUÇÃO</h3>
+<h3>INTRODUÇÃO</h3>
 <p>De acordo com dados estatísticos fornecidos pelo governo, no Brasil, ocorrem
 anualmente, uma média de quinhentos e setenta mil acidentes de trabalho. Tendo em
 vista o grande número de acidentes e o grande prejuízo decorrente dos mesmos, as
