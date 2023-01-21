@@ -1,6 +1,9 @@
 # SafetyFirstTCC
 Repositório destinado ao TCC de Engenharia de Software, onde o projeto obteve nota máxima.
 
+<img src="https://i.ibb.co/wNRvqC2/download.png">
+<img src="https://i.ibb.co/KG3JPSK/download-1.png">
+
 <h3>Resumo</h3>
 <p>Originado no cenário preventivo da saúde e segurança do trabalho, o SafetyFirstTCC,
 foi desenvolvido para auxiliar na vida dos profissionais da área da saúde. O
