@@ -3,11 +3,11 @@ Repositório destinado ao TCC de Engenharia de Software, onde o projeto obteve n
 
 <H1>VÍDEO DO PROJETO</H1>
 
-[![IMAGE ALT TEXT](https://i.ibb.co/mqvZcJm/Screenshot-2.png)](https://www.youtube.com/watch?v=XNZ7nWzL97E "SafetyFirstTCC")
+[![IMAGE ALT TEXT](https://github.com/leonardolauriquer/SafetyFirstTCC/blob/main/imgGit/3.png?raw=true)](https://www.youtube.com/watch?v=XNZ7nWzL97E "SafetyFirstTCC")
 
 <H1>IMAGENS WEB E MOBILE DO PROJETO</H1>
-<img src="https://i.ibb.co/wNRvqC2/download.png">
-<img src="https://i.ibb.co/KG3JPSK/download-1.png">
+<img src="https://github.com/leonardolauriquer/SafetyFirstTCC/blob/main/imgGit/1.png?raw=true">
+<img src="https://github.com/leonardolauriquer/SafetyFirstTCC/blob/main/imgGit/2.png?raw=true">
 
 <h3>Resumo</h3>
 <p>Originado no cenário preventivo da saúde e segurança do trabalho, o SafetyFirstTCC,
