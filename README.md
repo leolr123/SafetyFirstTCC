@@ -7,7 +7,7 @@ Repositório destinado ao TCC de Engenharia de Software, onde o projeto obteve n
 
 <H1>IMAGENS WEB E MOBILE DO PROJETO</H1>
 <img src="https://github.com/leonardolauriquer/SafetyFirstTCC/blob/main/imgGit/1.png?raw=true">
-<img src="https://github.com/leonardolauriquer/SafetyFirstTCC/blob/main/imgGit/2.png?raw=true">
+<img src="https://github.com/leonardolauriquer/SafetyFirstTCC/blob/main/imgGit/4.png?raw=true">
 
 <h3>Resumo</h3>
 <p>Originado no cenário preventivo da saúde e segurança do trabalho, o SafetyFirstTCC,
